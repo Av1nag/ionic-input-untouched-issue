@@ -1,0 +1,31 @@
+{
+  "Login": {
+    "backBtn": "Back",
+    "enterCredentials": "Enter your credentials to continue",
+    "email": "Email",
+    "enterEmail": "Enter your email",
+    "password": "Password",
+    "enterpassword": "Enter your password",
+    "logInBtn": "Log In",
+    "rememberme": "Remember me",
+    "forgotPassword": "Forgot Password",
+    "setNewPassword": "Set Your New Password",
+    "setNewPasswordDesc": "You’ve logged in with a temporary password. Please create a new one you’ll remember.",
+    "newPassword": "New Password",
+    "enterNewpassword": "Enter your new password",
+    "confirmNewPassword": "Confirm New Password",
+    "reenterNewpassword": "Re-Enter your new password",
+    "saveContinue": "Save & Continue",
+    "passwordReset": "Password Reset",
+    "passwordResetDesc": "Please contact your Admin team to generate a new password. Once you receive it, log in and create your own secure password.",
+    "OkayGotBtn": "Okay, Got It",
+    "fieldRequired": "This field is required.",
+    "validEmail": "Please enter a valid email address.",
+    "minimumLength": "Minimum length is 8 characters.",
+    "maxLength": "Maximum length is 128 characters.",
+    "passwordMust": "Password must be at least 8 characters and include an uppercase letter, a lowercase letter, a number, and a special character.",
+    "passwordMatch": "Passwords do not match.",
+    "UserDisabled": "User is disabled",
+    "LogoutMsg": "Are you sure you want to logout?"
+  }
+}

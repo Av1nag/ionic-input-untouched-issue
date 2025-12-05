@@ -1,0 +1,27 @@
+// For information on how to create your own theme, please see:
+// http://ionicframework.com/docs/theming/
+:root {
+  --color-primary: #d1b35c;
+
+  --color-primary-light: #f0ebdc;
+
+  --color-secondary: #407050;
+
+  --color-gray-900: #191e23;
+
+  --color-gray-400: #677686;
+
+  --color-gray-600: #70727a;
+
+  --color-disabled: #7d7e82;
+
+  --color-danger: #ef4444;
+
+  /* Text Colors */
+  --color-text-gradient: linear-gradient(to right, #417050, #707233);
+
+  /* Background Colors */
+  --color-bg-default: #ffffff;
+  --color-black: #000000;
+  --color-bg-alt: var(--color-gray-900);
+}

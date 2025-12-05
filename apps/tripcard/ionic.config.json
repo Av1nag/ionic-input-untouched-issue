@@ -1,0 +1,7 @@
+{
+  "name": "tripcard",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}

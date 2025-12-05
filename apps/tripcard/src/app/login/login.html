@@ -1,0 +1,20 @@
+<form [formGroup]="loginForm">
+  <ion-label>{{ "Login.email" | translate }}</ion-label>
+  <ion-input
+    type="email"
+    formControlName="email"
+    [placeholder]="'Login.enterEmail' | translate"
+    fill="outline"
+  />
+  <ion-label>{{ 'Login.password' | translate }}</ion-label>
+  <ion-input
+    type="password"
+    formControlName="password"
+    [placeholder]="'Login.enterEmail' | translate"
+    fill="outline"
+  />
+  <!-- Login Button -->
+  <div class="login-btn">
+    <ion-button type="submit"> {{'Login.logInBtn' | translate}}</ion-button>
+  </div>
+</form>

@@ -1,0 +1,17 @@
+{
+  "name": "@bgr-app/commonlib",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^20.2.0",
+    "@angular/core": "^20.2.0",
+    "@angular/forms": "^20.2.0",
+    "@angular/router": "^20.2.0",
+    "@ionic/angular": "^8.2.7",
+    "@ngx-translate/core": "^17.0.0",
+    "@ngx-translate/http-loader": "^17.0.0",
+    "ionicons": "^7.2.1",
+    "rxjs": "~7.8.0",
+    "amazon-cognito-identity-js": "^6.3.15"
+  },
+  "sideEffects": false
+}
